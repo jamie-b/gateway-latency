@@ -1,2 +1,2 @@
 # gateway-latency
-Extremely inelegant bash script to find your gateway, ping it and show the latency
+Extremely inelegant bash script to find your current gateway and show the latency
